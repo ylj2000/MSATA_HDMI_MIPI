@@ -4,7 +4,7 @@
 
 >适合二次开发，如果只是想做一个能直接用的，建议直接做https://github.com/ylj2000/HDMI_To_MIPI 中的成品。
 
-![image](https://github.com/ylj2000/MSATA_HDMI_MIPI/Image/LQ055T3SX02Z.jpg)
+![image](https://github.com/ylj2000/MSATA_HDMI_MIPI/blob/main/Image/LQ055T3SX02Z.jpg)
 
 # 关于硬件和软件
 
