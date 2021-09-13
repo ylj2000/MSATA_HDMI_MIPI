@@ -4,6 +4,8 @@
 
 >适合二次开发，如果只是想做一个能直接用的，建议直接做https://github.com/ylj2000/HDMI_To_MIPI 中的成品。
 
+![image](https://github.com/ylj2000/MSATA_HDMI_MIPI/blob/main/Image/LQ055T3SX02Z.jpg)
+
 # 关于硬件和软件
 
 >核心板采用MSATA接口引出HDMI和MIPI接口，以及控制底板上部分电路所需的单片机IO口，同时包含音频电路，可以输出电脑音频。主芯片为TC358870以及STM32芯片，目前可以选择STM32F401CBU6/STM32F401CCU6/STM32F071CBU6,在现在这个MCU涨飞的时候，401可以8-9元，071可以4元左右在咸鱼淘到，算是比较便宜的方案了。核心板上，如果采用STM32F071，则单片机的晶振电路可以不焊。
